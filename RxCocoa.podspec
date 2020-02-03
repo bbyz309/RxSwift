@@ -22,8 +22,8 @@ Pod::Spec.new do |s|
   s.source_files          = 'RxCocoa/**/*.{swift,h,m}', 'Platform/**/*.swift'
   s.exclude_files         = 'RxCocoa/Platform/**/*.swift', 'Platform/AtomicInt.swift'
 
-  s.dependency 'RxSwift', '>=6.0.0.beta-1'
-  s.dependency 'RxRelay', '>=6.0.0.beta-1'
+  s.dependency 'RxSwift', '>=6.0.0.beta.1'
+  s.dependency 'RxRelay', '>=6.0.0.beta.1'
 
   s.swift_version = '5.1'
 end
