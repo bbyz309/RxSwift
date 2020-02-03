@@ -23,6 +23,6 @@ Relays for RxSwift - PublishRelay and BehaviorRelay
 
   s.source_files          = 'RxRelay/**/*.{swift,h,m}'
 
-  s.dependency 'RxSwift', '>=6.0.0.beta-1'
+  s.dependency 'RxSwift', '>=6.0.0.beta.1'
   s.swift_version = '5.1'
 end
